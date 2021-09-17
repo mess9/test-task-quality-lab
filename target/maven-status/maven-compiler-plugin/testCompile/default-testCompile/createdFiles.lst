@@ -1,0 +1,6 @@
+ru\mail\test\SendMail.class
+TestLauncher.class
+ru\mail\pageobject\ru\mail\MainPage.class
+selenium\webdriver\WebDriverSettings.class
+ru\mail\pageobject\ru\mail\MailPage.class
+ru\mail\pageobject\ru\mail\NewMailPopUp.class
